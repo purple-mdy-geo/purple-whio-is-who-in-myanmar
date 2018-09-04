@@ -25,7 +25,7 @@
                      Ma Mu Di Ta
                      
              University of Computer Studie(Mandalay)
-                              Date – September 2018
+                              Date –- September 2018
 
 Group Member
 Roll No	Name	Signature	Date
