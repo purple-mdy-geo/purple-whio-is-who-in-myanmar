@@ -27,13 +27,13 @@
              University of Computer Studie(Mandalay)
                               Date –- September 2018
 
-Group Member
-Roll No	Name	Signature	Date
-5cs-160	Yu Yu Lwin		
-5cs-61	Myat Kaythi Aung		
-5cs-145	Phyu Thwe Soe		
-5cs-151	Thaim Mwae Lwin		
-5cs-162	Mu Di Ta		
+          Group Member
+ Roll No  	Name          	Signature	Date
+5cs-160   	Yu Yu Lwin		
+5cs-61	   Myat Kaythi Aung		
+5cs-145  	Phyu Thwe Soe		
+5cs-151 	Thaim Mwae Lwin		
+5cs-162	  Mu Di Ta		
 
 Supervisor Name                                           Signature/Date
 Dr.Nwe Nwe Hlaing
