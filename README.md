@@ -94,9 +94,9 @@ CHAPTER 3      Project Designs                                            13
 3.1.5 Lost Footsteps Design Example
 3.1.6 Online Shopping Design
 3.1.7 Who Is Who In Myanmar
-CHAPTER 4   EVALUATIONS AND CONCLUSION29
-4.1 Conclusion  29
-4.2 Advantages of the Project  30
+CHAPTER 4 
+4.1 Conclusion  
+4.2 Advantages of the Project  
 4.3 Disadvantages of the project
 4.4 Limitations and Future Work
 References
