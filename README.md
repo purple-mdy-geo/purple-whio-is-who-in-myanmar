@@ -119,11 +119,16 @@ This system describe information that user required who takepart in which part.T
 
 
 
-i
-Acknowledgements
+                                                                                                          i
+                                                                                                          
+                                                             Acknowledgements
+                                                             
 Firstly, we would like to express my heartfelt thanks to  U Kyaw Zwar Soe, Rector, ComputerUniversity(Mandalay), For  his permission to do this project.
+
 We should like to express our deep appreciatioin to ours director  U Ravi Chhabra,Director of GEO Mandalar Co.Ltd,for his guidance and suggestion for this project.
+
 We would like to express our deep appreciation to ours supervisor Dr.Daw Nwe Nwe Hlaing, From Software Department ,Computer University(Mandalay),for her close supervision,helpful advice, encouragement,numerous invaluable suggession and comments.
+
 We were also grateful to all my teachers from Computer University (Mandalay) who have taugh and guided us during the period of study.
 Finally,we also thanks everyone for supporting  in various ways.
 
