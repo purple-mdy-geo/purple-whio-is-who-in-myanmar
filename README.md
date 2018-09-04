@@ -142,10 +142,13 @@ Finally,we also thanks everyone for supporting  in various ways.
 
 
 
-ii
-DECLARATION
+                                                                                                                       ii
+                                                       DECLARATION
+                                                       
 We declare that this project report or part of it was not a copy of a document done by any organization, university any other institute or a previous student project group at University of Computer Studies, Mandalay and was not copied from the Internet or other sources.
+
 The interpretations are based on reading and understanding of the original texts and they are not published anywhere in the form of books, monographs or articles. The other books, articles and websites, which I have made use of are acknowledgement at the respective place in the text. For the present thesis, which we are submitting to the University, no degree on me before, either in this or in any other University.
+
 Project Details
 Project Title	Who Is Who In Myanmar
 Project ID	GEO Mandalar Investment & TechnologyCompany
