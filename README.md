@@ -35,7 +35,7 @@ Roll No	Name	Signature	Date
 5cs-151	Thaim Mwae Lwin		
 5cs-162	Mu Di Ta		
 
-Supervisor Name                                      Signature/Date
+Supervisor Name                                           Signature/Date
 Dr.Nwe Nwe Hlaing
 
 
@@ -56,12 +56,14 @@ Dr.Nwe Nwe Hlaing
 
 
 
+
+
 CONTENT
-Page Number
-Abstract   		i
-Acknowledgement		ii
-Declaration	                iii
-CHAPTER 1             INTRODUCTION1                       1
+                                                                    Page Number
+Abstract   	                                                              	i
+Acknowledgement	                                                        	 ii
+Declaration	                                                              iii
+CHAPTER 1                                                           INTRODUCTION1                       1
 1.1      Introduction                                                              2
 1.2      Background of the project                                         2
 1.3      GitHub                                                                       2
