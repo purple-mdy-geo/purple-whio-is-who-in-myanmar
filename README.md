@@ -77,23 +77,23 @@ INTRODUCTION                                                               1
   (ii)Bash                                                                   5
 1.4 Objectives of the project 				                                 6
 CHAPTER 2                                                                  6
-2.1     Requirement Analysis                                               6
-2.1.1 Materialize CSS                                                      7
-2.1.2 Material Design Lite                                                 9
-2.2    Use of Software Applications                                       10
-2.2.1 PyCharm                                                             10
-2.2.2 Heroku                                                              12
+2.1 Requirement Analysis                                               6
+   2.1.1 Materialize CSS                                                      7
+   2.1.2 Material Design Lite                                                 9
+2.2 Use of Software Applications                                       10
+   2.2.1 PyCharm                                                             10
+   2.2.2 Heroku                                                              12
 2.3   Project Plan                                                        10
 CHAPTER 3      Project Designs                                            13
 3.1 Designs
-3.1.1 Learn Python
-3.1.2 Python Exercises
-3.1.3 Flask
-3.1.4 Personal Page On Heroku
-3.1.4 Gmail App Design
-3.1.5 Lost Footsteps Design Example
-3.1.6 Online Shopping Design
-3.1.7 Who Is Who In Myanmar
+   3.1.1 Learn Python
+   3.1.2 Python Exercises
+   3.1.3 Flask
+   3.1.4 Personal Page On Heroku
+   3.1.4 Gmail App Design
+   3.1.5 Lost Footsteps Design Example
+   3.1.6 Online Shopping Design
+   3.1.7 Who Is Who In Myanmar
 CHAPTER 4 
 4.1 Conclusion  
 4.2 Advantages of the Project  
