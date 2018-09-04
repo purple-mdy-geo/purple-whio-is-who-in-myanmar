@@ -95,11 +95,10 @@ CHAPTER 3      Project Designs                                            13
    3.1.6 Online Shopping Design
    3.1.7 Who Is Who In Myanmar
 CHAPTER 4 
-4.1 Conclusion  
-4.2 Advantages of the Project  
-4.3 Disadvantages of the project
-4.4 Limitations and Future Work
-References
+   4.1 Conclusion  
+   4.2 Advantages of the Project  
+   4.3 Disadvantages of the project
+   4.4 Limitations and Future Work
 
 Abstract
 Our project  “Who is Who in Myanmar” is a  one kind of searching  form in Myanmar.This project shows the biography of famous people among in our Country.
