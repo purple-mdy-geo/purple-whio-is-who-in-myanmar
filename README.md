@@ -80,11 +80,11 @@ CHAPTER 2                                                                  6
 2.1     Requirement Analysis                                               6
 2.1.1 Materialize CSS                                                      7
 2.1.2 Material Design Lite                                                 9
-2.2    Use of Software Applications                10
-2.2.1 PyCharm                                       10
-2.2.2 Heroku                                         12
-2.3   Project Plan                                     10
-CHAPTER 3      Project Designs                                  13
+2.2    Use of Software Applications                                       10
+2.2.1 PyCharm                                                             10
+2.2.2 Heroku                                                              12
+2.3   Project Plan                                                        10
+CHAPTER 3      Project Designs                                            13
 3.1 Designs
 3.1.1 Learn Python
 3.1.2 Python Exercises
