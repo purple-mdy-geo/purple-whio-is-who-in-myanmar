@@ -1,11 +1,14 @@
 # purple-whio-is-who-in-myanmar
 
                       A PROJECT REPORT ON
+                      
                      “Who Is Who In Myanmar”
-FOR
-GMIT(Co.,Ltd)
-SUBMITTED IN PARTIAL
-FULFILLMENT OF INTERNSHIP
+                     
+                            FOR
+                        GMIT(Co.,Ltd)
+                        
+                    SUBMITTED IN PARTIAL
+                   FULFILLMENT OF INTERNSHIP
 PROJECT
 UNDER THE GUIDANCE OF
 Director
