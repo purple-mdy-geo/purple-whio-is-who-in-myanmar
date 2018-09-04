@@ -143,6 +143,7 @@ Finally,we also thanks everyone for supporting  in various ways.
 
 
                                                                                                                        ii
+                                                                                                                       
                                                        DECLARATION
                                                        
 We declare that this project report or part of it was not a copy of a document done by any organization, university any other institute or a previous student project group at University of Computer Studies, Mandalay and was not copied from the Internet or other sources.
@@ -150,29 +151,31 @@ We declare that this project report or part of it was not a copy of a document d
 The interpretations are based on reading and understanding of the original texts and they are not published anywhere in the form of books, monographs or articles. The other books, articles and websites, which I have made use of are acknowledgement at the respective place in the text. For the present thesis, which we are submitting to the University, no degree on me before, either in this or in any other University.
 
 Project Details
+
 Project Title	Who Is Who In Myanmar
+
 Project ID	GEO Mandalar Investment & TechnologyCompany
 
 
 
 
 
-iii
+                                                                                                                                iii
 List of Figures
-Figure                                                                        Page
-Figure1.1  Example of GitHub Account
+                                                                                                                            Figure Page
+                                                                                                                            
+Figure 1.1  Example of GitHub Account
 Figure 2.2 Materialize Design Lite(MDL)
 Figure 2.1 Materialize Css
 Figure 2.3 Example of Heroku App Account
 Figure 2.4 Project Plan
 Figure 3.2 Python Exercises run on PyCharm
 Figure 3.3 Learn Flask run on GitBash
-Figure3.4 Example of Personal Page On Heroku
+Figure 3.4 Example of Personal Page On Heroku
 Figure 3.5 Gmail App Design
 Figure 3.6 Example of Lost Footsteps Design
 Figure 3.7 Example of UI/UX Design for Online Shopping
-Figure3.8 Example of UI/UX Design for “Who Is Who In
-Myanmar”
+Figure 3.8 Example of UI/UX Design for “Who Is Who In Myanmar”
 
 
 
