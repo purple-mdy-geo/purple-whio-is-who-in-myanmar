@@ -63,22 +63,23 @@ CONTENT
 Abstract   	                                                              	i
 Acknowledgement	                                                        	 ii
 Declaration	                                                              iii
-CHAPTER 1                                                           INTRODUCTION1                       1
-1.1      Introduction                                                              2
+CHAPTER 1 
+INTRODUCTION                                                               1                       
+1.1      Introduction                                                      2
 1.2      Background of the project                                         2
-1.3      GitHub                                                                       2
-1.3.1 What is GitHub?		                              3
-(i)Details of the GitHub                                    2
-(ii)Learn GitHub                                               3
-(iii)How To Create Github Account                3
-1.3.2 Details Git Bash                                               4
-(i)Git            							    5
-(ii)Bash                                                             5
-1.4      Objectives of the project 				            6
-CHAPTER 2                                  6
-2.1     Requirement Analysis                                              6
-2.1.1 Materialize CSS                           7
-2.1.2 Material Design Lite                    9
+1.3      GitHub                                                            2
+1.3.1 What is GitHub?		                                                   3
+(i)Details of the GitHub                                                   2
+(ii)Learn GitHub                                                           3
+(iii)How To Create Github Account                                          3
+1.3.2 Details Git Bash                                                     4
+(i)Git            							                                           5
+(ii)Bash                                                                   5
+1.4      Objectives of the project 				                                 6
+CHAPTER 2                                                                  6
+2.1     Requirement Analysis                                               6
+2.1.1 Materialize CSS                                                      7
+2.1.2 Material Design Lite                                                 9
 2.2    Use of Software Applications                10
 2.2.1 PyCharm                                       10
 2.2.2 Heroku                                         12
