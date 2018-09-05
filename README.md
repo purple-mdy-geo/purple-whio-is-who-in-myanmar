@@ -5,7 +5,7 @@
                      “Who Is Who In Myanmar”
                      
                             FOR
-                        GMIT(Co.,Ltd)
+                        Geo Mandalar Investment and technology(Co.,Ltd)
                         
                     SUBMITTED IN PARTIAL
                    FULFILLMENT OF INTERNSHIP
