@@ -28,12 +28,12 @@
                               Date –- September 2018
 
           Group Member
- Roll No  	Name          	Signature	Date
-5cs-160   	Yu Yu Lwin		
-5cs-61	   Myat Kaythi Aung		
-5cs-145  	Phyu Thwe Soe		
-5cs-151 	Thaim Mwae Lwin		
-5cs-162	  Mu Di Ta		
+ Roll No  	Name          	             Signature/Date
+5cs-160   	Ma Yu Yu Lwin		
+5cs-61	    Ma Myat Kaythi Aung		
+5cs-145  	  Ma Phyu Thwe Soe		
+5cs-151 	  Ma Thaim Mwae Lwin		
+5cs-162	    Ma Mu Di Ta		
 
 Supervisor Name                                           Signature/Date
 Dr.Nwe Nwe Hlaing
