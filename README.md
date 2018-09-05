@@ -64,7 +64,7 @@ Abstract   	                                                              	i
 Acknowledgement	                                                        	 ii
 Declaration	                                                              iii
 CHAPTER 1 
-INTRODUCTION                                                               1                       
+INTRODUCTIONS                                                               1                       
 1.1 Introduction                                                           2
 1.2 Background of the project                                              2
 1.3 GitHub                                                                 2
@@ -98,10 +98,10 @@ CHAPTER 4
    4.1 Conclusion  
    4.2 Advantages of the Project  
    4.3 Disadvantages of the project
-   4.4 Limitations and Future Work
+   4.4 Limitation and Future Work
 
                                                   Abstract
-Our project  “Who is Who in Myanmar” is a  one kind of searching  form in Myanmar.This project shows the biography of famous people among in our Country.
+Our project  “Who is Who in Myanmar” is a  one kind of searching  from in Myanmar.This project shows the biography of famous people among in our Country.
 
 Famous people such as Candidate from parties,Members of parliament,Business leader,Celebrity (They are  Beauty Pageant ,Models,Actor,Vocalist,Directors,Promoter, and so on) and also can know the unique popular people (such as Historical figures,freedom fighter ,Regional leader from  parliament and very important to know about the  famous people.So user can find the about the people who live in Myanmar .  
 
