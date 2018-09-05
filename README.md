@@ -35,7 +35,7 @@
 5cs-151 	  Ma Thaim Mwae Lwin		
 5cs-162	    Ma Mu Di Ta		
 
-Supervisor Name                                           Signature/Date
+Supervisor Name                                           Signature/Date and time
 Dr.Nwe Nwe Hlaing
 
 
@@ -164,8 +164,8 @@ Project ID	GEO Mandalar Investment & TechnologyCompany
 List of Figures
                                                                                                                             Figure Page
                                                                                                                             
-Figure 1.1  Example of GitHub Account
-Figure 2.2 Materialize Design Lite(MDL)
+Figure 1.1  Example of GitHub Account                                                                                           23
+Figure 2.2 Materialize Design Lite(MDL)                                                                                         24
 Figure 2.1 Materialize Css
 Figure 2.3 Example of Heroku App Account
 Figure 2.4 Project Plan
