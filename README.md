@@ -24,7 +24,7 @@
                      Ma Thaim Mwae Lwin
                      Ma Mu Di Ta
                      
-             University of Computer Studie(Mandalay)
+             University of Computer Studies(Mandalay)
                               Date –- September 2018
 
           Group Member
