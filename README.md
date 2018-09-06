@@ -261,22 +261,29 @@
 
 		
 		(i)What is GitHub
-•	 GitHub is at heart a Git repository hosting service, i.e. a
- cloud-based source code management or version control system, but that’s just the beginning. In addition, GitHub implements features for code review (pull requests, diffs, and review requests), project management (including issue tracking and assignment), integrations with other developer tools, team management, documentation, and “social coding.”
-•	Something like a social networking site for programmers, GitHub is an open environment where programmers can 
-freely share and collaborate (even ad hoc) 
-on open source code. GitHub makes it easy to find useful code, copy repositories for your own use, and submit changes to others’ projects. As a result, GitHub has become home to virtually every open source project of any importance.
-(ii)Learn GitHub	
-Why learn Git? Ever have a "I lost all my work and I have a                                                  deadline the next day" moment? Git is the most popular version control tool - something that developers use to save all relevant versions of their work to avoid moments like those.
+			•GitHub is at heart a Git repository hosting service, i.e. a
+			cloud-based source code management or version control system, but that’s just the beginning.
+			In addition, GitHub implements features for code review (pull requests, diffs, and review requests),
+			project management (including issue tracking and assignment), integrations with other developer tools, 
+			team management, documentation, and “social coding.”
+			•Something like a social networking site for programmers, GitHub is an open environment where programmers can 
+			freely share and collaborate (even ad hoc) 
+			on open source code. GitHub makes it easy to find useful code, copy repositories for your own use, and submit
+			changes to others’ projects. As a result, GitHub has become home to virtually every open source project of any importance.
+		(ii)Learn GitHub	
+			Why learn Git? Ever have a "I lost all my work and I have a                                                 
+			deadline the next day" moment? Git is the most popular version control tool - something that developers use to 
+			save all relevant versions of their work to avoid moments like those.
                                                      
              
              
                  Figure1.1 Learn Git
 
-(iii)How To Create GitHub Account?
-•	Play vim adventuregame
-•	Do github tutorial
-•	Build repository
+		(iii)How To Create GitHub Account?
+			
+			•Play vim adventuregame
+			•Do github tutorial
+			•Build repository
 
 
 
