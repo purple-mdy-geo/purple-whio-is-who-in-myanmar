@@ -236,11 +236,154 @@ Git is a version control system for tracking changes in computer files and coord
 Bash is a Unix shell and command language written by Brian Fox for the GNU Project as a free software replacement for the Bourne shell. It has been distributed widely as the default login shell for most Linux distributions and Apple’s macOS. A version is also available for Windows 10.
 Bash is command processor that typically runs in a text window where the user types commands that cause actions. Bash can also read and execute commands from a file, called a shell script.
 
+1.4 Objective of the Project
+	To search people informations from these  project.
+	User can  easily   know about  the  people  biography of famous people.                                    
+	To  reduce  the  paper  work.
+	To  develop  the  general  knowledge  for our  country have a variety  of popular  people .
 
+                                        CHAPTER 2
+                                       METHODOLOGY
+2.1 Requirement Analysis
+•	Hardware Requirements
+	          Processor: Core i3		
+	          RAM: 4GB
+	          Hard Disk: 4GB
+•	Software Requirements
+         Language:   Python, CSS, HTML, Materialize CSS,   
+                             Materialize Design Lite(MDL)                                
+                 Operating System: Window7
+         Software:   GitHub, Git Bash,Heroku, 
+                            PyCharm,Sublime Text 3
+			    
+2.1.1 Materialize CSS
+Materialize is basically CSS framework which is used to create responsive websites. Materialize framework is basically built on google’s material design concept. Materialize framework is created with HTML, CSS and JavaScript.
+Materialize CSS is a UI component library which is created 
+with HTML, CSS and JavaScript. It is created and designed by Google. Materialize CSS is known as Materialize Design.
+Google’s goal is to develop a system of design that allows for a unified user experience across all their products on any platform. It is used to construct attractive, consistent, and functional web pages and web apps.
+Material design in its purest form: shadows, layers, flat icons, bright colors, and conservation of space for mobile. Bebber’s Gooey Menu offer something new and unique without sacrificing the best advantages of Google’s design style. It is a modern responsive front-end framework based on Material Design. 
+ 
+          Figure 2.1 Materialize Css      	
 
-
-
-
+2.1.2	Materialize Design Lite (MDL)
+                 Today we are releasing our effort to bring this to websites using vanilla CSS, HTML, JavaScript. We’re calling it Material Design Lite. MDL makes it easy to add a material design look and feel to your websites. MDL includes a rich set of components including material design buttons, text-fields.
 
 
  
+
+
+
+
+
+
+                                              (a)
+   
+
+
+
+                                            
+                                       (b)
+       Figure 2.2 Materialize Design Lite(MDL)
+       
+       
+2.2 Use of Software Applications
+
+2.2.1 Pycharm
+                     Pycharm is an integrated development environment (IDE) used in computer programming specifically for the Python language. It is specially for the Python language. It is developed by Czech company JetBrains. It provides code analysis, a graphical debugger, an integrated unit tester, integration with Version control system (vcses) and supports web development with Django.
+                    If you’re using macOS or Linux your computer already has Python installed. You can get Python from Python.org.
+
+2.2.2 What is Heroku?
+Heroku is the following:
+	A Web Application Deployment Model
+	A Platform-as-a-Service
+	A Polyglot Platform
+	A Cloud Platform
+Benefits of the Heroku platform are:
+1.Cost: Heroku’s platform-as-a-service helps companies make tremendous cost savings because it eliminates the need for expensive infrastructure and all the time and money it takes to manage servers.
+2.Productivity: From start to finish, every detail of Heroku is designed to maximica efficiency and save developers time. It is intultiv, powerful, and easy to use.
+3.Support: The Heroku Operational Experience(Opex)lends immense support, with troubleshooting tips and quick diagnostic tools to help you get to the root of the problem fast and fix it even faster.
+3. The Ecosystem: With Heroku Elements, developers can extend apps using a wide variety of add-ons from third party cloud services. So the options are nearly endless.
+ 
+      Figure 2.3 Example of Heroku App Account
+
+
+
+2.3Project Plan
+ 
+                                                      CHAPTER 3
+                                                PROJECT DEVELOPMENT
+3.1 Designs
+3.1.1 Learn Python 
+  
+        Figure 3.1 Python Exercises run on GitBash 
+
+3.1.2 Python Exercises
+ 
+        Figure 3.2 Python Exercises run on PyCharm
+
+3.1.3 Flask	
+   Flask is a small and powerful web framework for Python. It's easy to learn and simple to use, enabling you to build your web app in a short amount of time.
+   Before getting started, we need to install Flask. Because systems vary, things can sporadically go wrong during these steps. If they do, like we all do, just Google the error message or leave a comment describing the problem
+  
+        Figure 3.3 Learn Flask run on GitBash
+3.1.4 Personal Page On Heroku
+  
+Figure3.4 Example of Personal Page On Heroku
+
+3.1.4 Gmail App Design
+ 
+(a)	Gmail App Design Example
+ 
+             (b)After Click Menu Item
+     
+               (c)After press enter create icon
+                 Figure 3.5 Gmail App Design
+3.1.5 Lost Footsteps Design Example
+ 
+     Figure 3.6 Example of Lost Footsteps Design
+
+3.1.6 Online Shopping Design 
+   
+  Figure 3.7 Example of UI/UX Design for Online Shopping
+
+ 3.1.7 Who Is Who In Myanmar
+ 
+           (a)Home Page of Who Is Who In Myanmar
+
+ 
+                      (b)After Click Menu Bar
+
+ 
+(c)Footer
+ 
+              (d) After Click About In Footer 
+   
+          (e)After Click Contact Us In Footer
+Figure3.8 Example of UI/UX Design for “Who Is Who In
+                         Myanmar”
+Link      https://purple5.herokuapp.com
+
+ 
+                                          CHAPTER 4  
+                   EVALUATIONS AND CONCLUSION
+4.1 Conclusion	
+	The project provides simple and complete functions to be easily search for viewers who want to know all about people in this project.
+	Admin can also change and add data easily about updating news in Myanmar.
+ 	Thus project “Who Is Who In Myanmar” will be a convenient way for the viewers.
+
+4.2 Advantages of the Project
+	That project offers the following advantages:
+•	It helps from “lack of cost and time” for viewers.
+•	It provides “faster and easier” way because of using this project only needs mobile tablets, etc.
+•	And so, it is better than by paper work.
+•	It is a User Friendly system for all viewers.
+
+4.3 Disadvantages
+•	The cost of computer hardware and software programs can be expensive.
+•	As mobile tablets use wireless networks, they can connect with network if Wifi fails.
+
+ 4.4 Limitations and Future Work
+This project is suitable for not only the Myanmar nations but also for tourists and visitors from many other countries. Since the analysis, part is modular, more updated analysis data can be implemented.In fact, one can also have multiple analysis data in different files which can be used according to the requirement.
+
+
+
