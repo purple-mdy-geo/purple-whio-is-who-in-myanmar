@@ -188,6 +188,29 @@ Figure 3.8 Example of UI/UX Design for “Who Is Who In Myanmar”
                iv.Modern Historical Figures         (33Comrades,Freedom,Fighters,Regional Leaders,etc….)    and v.Celebrities(BeautyPageants,Models,Actors,Vocalists,Directors,Promoters,Socialites,Social Media Influence,etc...).We used UI/UX update design for our project.We can also used Javascript,Materialize CSS and Materialize Design Lite(MDL).
 
 
+1.2	Background of the Project
+    People has received  personalities of each famous person by a project.
+    When the viewers search on the main menu, the project displayed their personalities with photos and texts.
+     There are many processes to develop manual system and it may be more cost and time waste. So we decided to develop the project to reduce the problems.
+
+1.3	GitHub
+1.3.1	Details of the GitHub
+             GitHub is a web-based hosting service for version control using Git. It is mostly used for computer code. It offers all of the distributed version control and source code management (SCM) functionality of Git as well as adding its own features. It provides access control and several collaboration features such as bug tracking, feature requests, task management, and wikis for every project.
+  GitHub offers plans for both private repositories and free accounts which are commonly used to host open-source software 
+projects. As of June 2018,  GitHub reports having over 28 million users and 57 million repositories (including 28 million public repositories.
+
+(i)What is GitHub
+•	 GitHub is at heart a Git repository hosting service, i.e. a
+ cloud-based source code management or version control system, but that’s just the beginning. In addition, GitHub implements features for code review (pull requests, diffs, and review requests), project management (including issue tracking and assignment), integrations with other developer tools, team management, documentation, and “social coding.”
+•	Something like a social networking site for programmers, GitHub is an open environment where programmers can 
+freely share and collaborate (even ad hoc) 
+on open source code. GitHub makes it easy to find useful code, copy repositories for your own use, and submit changes to others’ projects. As a result, GitHub has become home to virtually every open source project of any importance.
+(ii)Learn GitHub	
+Why learn Git? Ever have a "I lost all my work and I have a                                                  deadline the next day" moment? Git is the most popular version control tool - something that developers use to save all relevant versions of their work to avoid moments like those.
+                                                     
+                                                         
+
+
 
 
 
