@@ -346,7 +346,23 @@ Figure3.4 Example of Personal Page On Heroku
    
   Figure 3.7 Example of UI/UX Design for Online Shopping
 
+ 3.1.7 Who Is Who In Myanmar
  
+           (a)Home Page of Who Is Who In Myanmar
+
+ 
+                      (b)After Click Menu Bar
+
+ 
+(c)Footer
+ 
+              (d) After Click About In Footer 
+   
+          (e)After Click Contact Us In Footer
+Figure3.8 Example of UI/UX Design for “Who Is Who In
+                         Myanmar”
+Link      https://purple5.herokuapp.com
+
  
 
 
