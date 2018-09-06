@@ -422,7 +422,7 @@
   	
         				Figure 3.1 Python Exercises run on GitBash 
 
-3.1.2 Python Exercises
+		3.1.2 Python Exercises
  
         Figure 3.2 Python Exercises run on PyCharm
 
