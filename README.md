@@ -378,5 +378,8 @@ Link      https://purple5.herokuapp.com
 •	And so, it is better than by paper work.
 •	It is a User Friendly system for all viewers.
 
+4.3 Disadvantages
+•	The cost of computer hardware and software programs can be expensive.
+•	As mobile tablets use wireless networks, they can connect with network if Wifi fails.
 
  
