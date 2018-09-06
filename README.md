@@ -370,25 +370,37 @@
 				Figure 2.2 Materialize Design Lite(MDL)
        
        
-2.2 Use of Software Applications
+		2.2 Use of Software Applications
 
-2.2.1 Pycharm
-                     Pycharm is an integrated development environment (IDE) used in computer programming specifically for the Python language. It is specially for the Python language. It is developed by Czech company JetBrains. It provides code analysis, a graphical debugger, an integrated unit tester, integration with Version control system (vcses) and supports web development with Django.
-                    If you’re using macOS or Linux your computer already has Python installed. You can get Python from Python.org.
+			2.2.1 Pycharm
+		                     Pycharm is an integrated development environment (IDE) used in computer programming specifically for the Python language.
+				     It is specially for the Python language. It is developed by Czech company JetBrains. It provides code analysis, a graphical debugger,
+				     an integrated unit tester, integration with Version control system (vcses) and supports web development with Django.
+                    	If you’re using macOS or Linux your computer already has Python installed. You can get Python from Python.org.
 
-2.2.2 What is Heroku?
-Heroku is the following:
-	A Web Application Deployment Model
-	A Platform-as-a-Service
-	A Polyglot Platform
-	A Cloud Platform
-Benefits of the Heroku platform are:
-1.Cost: Heroku’s platform-as-a-service helps companies make tremendous cost savings because it eliminates the need for expensive infrastructure and all the time and money it takes to manage servers.
-2.Productivity: From start to finish, every detail of Heroku is designed to maximica efficiency and save developers time. It is intultiv, powerful, and easy to use.
-3.Support: The Heroku Operational Experience(Opex)lends immense support, with troubleshooting tips and quick diagnostic tools to help you get to the root of the problem fast and fix it even faster.
-3. The Ecosystem: With Heroku Elements, developers can extend apps using a wide variety of add-ons from third party cloud services. So the options are nearly endless.
+			2.2.2 What is Heroku?
+				
+				Heroku is the following:
+						A Web Application Deployment Model
+						A Platform-as-a-Service
+						A Polyglot Platform
+						A Cloud Platform
+				
+				Benefits of the Heroku platform are:
+				
+				1.Cost: Heroku’s platform-as-a-service helps companies make tremendous cost savings because it eliminates the need for expensive 
+				infrastructure and all the time and money it takes to manage servers.
+				2.Productivity: From start to finish, every detail of Heroku is designed to maximica efficiency and save developers time. It is intultiv,
+				powerful, and easy to use.
+				3.Support: The Heroku Operational Experience(Opex)lends immense support, with troubleshooting tips and quick diagnostic tools to help you 
+				get to the root of the problem fast and fix it even faster.
+				4. The Ecosystem: With Heroku Elements, developers can extend apps using a wide variety of add-ons from third party cloud services. So the
+				options are nearly endless.
  
-      Figure 2.3 Example of Heroku App Account
+
+
+ 	
+			      Figure 2.3 Example of Heroku App Account
 
 
 
