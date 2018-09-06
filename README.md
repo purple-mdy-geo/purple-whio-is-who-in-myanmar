@@ -426,11 +426,16 @@
  
         Figure 3.2 Python Exercises run on PyCharm
 
-3.1.3 Flask	
-   Flask is a small and powerful web framework for Python. It's easy to learn and simple to use, enabling you to build your web app in a short amount of time.
-   Before getting started, we need to install Flask. Because systems vary, things can sporadically go wrong during these steps. If they do, like we all do, just Google the error message or leave a comment describing the problem
+		3.1.3 Flask	
+		
+			Flask is a small and powerful web framework for Python. It's easy to learn and simple to use, enabling you to
+			build your web app in a short amount of time.
+			   Before getting started, we need to install Flask. Because systems vary, things can sporadically go wrong during these steps.
+			   If they do, like we all do, just Google the error message or leave a comment describing the problem
   
-        Figure 3.3 Learn Flask run on GitBash
+		
+	
+			Figure 3.3 Learn Flask run on GitBash
 3.1.4 Personal Page On Heroku
   
 Figure3.4 Example of Personal Page On Heroku
