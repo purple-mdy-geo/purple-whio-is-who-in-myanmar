@@ -242,6 +242,20 @@ Bash is command processor that typically runs in a text window where the user ty
 	To  reduce  the  paper  work.
 	To  develop  the  general  knowledge  for our  country have a variety  of popular  people .
 
+                                        CHAPTER 2
+                                       METHODOLOGY
+2.1 Requirement Analysis
+•	Hardware Requirements
+	          Processor: Core i3		
+	          RAM: 4GB
+	          Hard Disk: 4GB
+•	Software Requirements
+         Language:   Python, CSS, HTML, Materialize CSS,   
+                             Materialize Design Lite(MDL)                                
+                 Operating System: Window7
+         Software:   GitHub, Git Bash,Heroku, 
+                            PyCharm,Sublime Text 3
+
 
 
 
