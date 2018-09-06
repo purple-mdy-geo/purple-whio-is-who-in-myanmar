@@ -338,6 +338,9 @@ Figure3.4 Example of Personal Page On Heroku
      
                (c)After press enter create icon
                  Figure 3.5 Gmail App Design
+3.1.5 Lost Footsteps Design Example
+ 
+ 
 
 
  
