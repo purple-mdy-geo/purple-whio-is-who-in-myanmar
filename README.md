@@ -265,6 +265,26 @@ Material design in its purest form: shadows, layers, flat icons, bright colors, 
  
           Figure 2.1 Materialize Css      	
 
+2.1.2	Materialize Design Lite (MDL)
+                 Today we are releasing our effort to bring this to websites using vanilla CSS, HTML, JavaScript. We’re calling it Material Design Lite. MDL makes it easy to add a material design look and feel to your websites. MDL includes a rich set of components including material design buttons, text-fields.
+
+
+ 
+
+
+
+
+
+
+                                              (a)
+   
+
+
+
+                                            
+                                       (b)
+       Figure 2.2 Materialize Design Lite(MDL)
+
 
 
 
