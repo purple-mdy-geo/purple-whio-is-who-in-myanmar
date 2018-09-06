@@ -487,7 +487,7 @@
                       (b)After Click Menu Bar
 
  
-(c)Footer
+			(c)Footer
  
               (d) After Click About In Footer 
    
