@@ -371,5 +371,12 @@ Link      https://purple5.herokuapp.com
 	Admin can also change and add data easily about updating news in Myanmar.
  	Thus project “Who Is Who In Myanmar” will be a convenient way for the viewers.
 
+4.2 Advantages of the Project
+	That project offers the following advantages:
+•	It helps from “lack of cost and time” for viewers.
+•	It provides “faster and easier” way because of using this project only needs mobile tablets, etc.
+•	And so, it is better than by paper work.
+•	It is a User Friendly system for all viewers.
+
 
  
