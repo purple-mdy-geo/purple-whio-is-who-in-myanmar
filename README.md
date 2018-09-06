@@ -364,6 +364,12 @@ Figure3.8 Example of UI/UX Design for “Who Is Who In
 Link      https://purple5.herokuapp.com
 
  
+                                          CHAPTER 4  
+                   EVALUATIONS AND CONCLUSION
+4.1 Conclusion	
+	The project provides simple and complete functions to be easily search for viewers who want to know all about people in this project.
+	Admin can also change and add data easily about updating news in Myanmar.
+ 	Thus project “Who Is Who In Myanmar” will be a convenient way for the viewers.
 
 
  
