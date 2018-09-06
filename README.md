@@ -225,6 +225,16 @@ Why learn Git? Ever have a "I lost all my work and I have a                     
              Figure1.2 Example of GitHub Account
 
 
+1.3.2 Details of Git Bash 	
+      Git Bash is a bash shell for use on Microsoft Windows           systems, to enable the git repository functions on that platform.Git Bash for Windows is a package that is comprised of two parts:
+	Git: It is a version control system (VCS) which tracks the file changes.
+	Bash: It is a unix shell command line interface commonly used in different linux machines.
+                                                                                 
+(i)Git
+Git is a version control system for tracking changes in computer files and coordinating work on those files among multiple people. It is primarily used for source code management in software development in software development, but it can be used to keep track of changes in any set of files. Git is free and open source software distributed under the terms of the GNC General Public License version 2.
+(ii)Bash
+Bash is a Unix shell and command language written by Brian Fox for the GNU Project as a free software replacement for the Bourne shell. It has been distributed widely as the default login shell for most Linux distributions and Apple’s macOS. A version is also available for Windows 10.
+Bash is command processor that typically runs in a text window where the user types commands that cause actions. Bash can also read and execute commands from a file, called a shell script.
 
 
 
