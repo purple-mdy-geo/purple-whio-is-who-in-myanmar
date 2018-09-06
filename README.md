@@ -382,4 +382,8 @@ Link      https://purple5.herokuapp.com
 •	The cost of computer hardware and software programs can be expensive.
 •	As mobile tablets use wireless networks, they can connect with network if Wifi fails.
 
- 
+ 4.4 Limitations and Future Work
+This project is suitable for not only the Myanmar nations but also for tourists and visitors from many other countries. Since the analysis, part is modular, more updated analysis data can be implemented.In fact, one can also have multiple analysis data in different files which can be used according to the requirement.
+
+
+
