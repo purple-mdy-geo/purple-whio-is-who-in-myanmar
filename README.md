@@ -310,6 +310,17 @@ Benefits of the Heroku platform are:
 
 2.3Project Plan
  
+                                                      CHAPTER 3
+                                                PROJECT DEVELOPMENT
+3.1 Designs
+3.1.1 Learn Python 
+  
+        Figure 3.1 Python Exercises run on GitBash 
+
+3.1.2 Python Exercises
+ 
+        Figure 3.2 Python Exercises run on PyCharm
+
 
 
  
