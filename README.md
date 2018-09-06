@@ -212,7 +212,7 @@
 		Figure 2.2 Materialize Design Lite(MDL)   24                                                                                     
 		Figure 2.1 Materialize Css
 		Figure 2.3 Example of Heroku App Account
-Figure 2.4 Project Plan
+		Figure 2.4 Project Plan
 Figure 3.2 Python Exercises run on PyCharm
 Figure 3.3 Learn Flask run on GitBash
 Figure 3.4 Example of Personal Page On Heroku
