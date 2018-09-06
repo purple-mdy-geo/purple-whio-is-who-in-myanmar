@@ -489,14 +489,21 @@
  
 			(c)Footer
  
-              (d) After Click About In Footer 
+		
+			(d) After Click About In Footer 
    
-          (e)After Click Contact Us In Footer
-Figure3.8 Example of UI/UX Design for “Who Is Who In
-                         Myanmar”
-Link      https://purple5.herokuapp.com
-
+   
+   			(e)After Click Contact Us In Footer
+			
+			
+			Figure3.8 Example of UI/UX Design for “Who Is Who In Myanmar”
+				
+				
+				Link      https://purple5.herokuapp.com"
  
+
+
+
                                           CHAPTER 4  
                    EVALUATIONS AND CONCLUSION
 4.1 Conclusion	
