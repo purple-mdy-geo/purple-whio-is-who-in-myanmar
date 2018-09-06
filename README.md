@@ -335,14 +335,18 @@
 			Software:   GitHub, Git Bash,Heroku, 
                             PyCharm,Sublime Text 3
 			    
-2.1.1 Materialize CSS
-Materialize is basically CSS framework which is used to create responsive websites. Materialize framework is basically built on google’s material design concept. Materialize framework is created with HTML, CSS and JavaScript.
-Materialize CSS is a UI component library which is created 
-with HTML, CSS and JavaScript. It is created and designed by Google. Materialize CSS is known as Materialize Design.
-Google’s goal is to develop a system of design that allows for a unified user experience across all their products on any platform. It is used to construct attractive, consistent, and functional web pages and web apps.
-Material design in its purest form: shadows, layers, flat icons, bright colors, and conservation of space for mobile. Bebber’s Gooey Menu offer something new and unique without sacrificing the best advantages of Google’s design style. It is a modern responsive front-end framework based on Material Design. 
+		2.1.1 Materialize CSS
+			Materialize is basically CSS framework which is used to create responsive websites. 
+			Materialize framework is basically built on google’s material design concept. Materialize 
+			framework is created with HTML, CSS and JavaScript.
+			Materialize CSS is a UI	component library which is created 
+			with HTML, CSS and JavaScript. It is created and designed by Google. Materialize CSS is known as Materialize Design.
+			Google’s goal is to develop a system of design that allows for a unified user experience across all their products on 
+			any platform. It is used to construct attractive, consistent, and functional web pages and web apps.
+			Material design in its purest form: shadows, layers, flat icons, bright colors, and conservation of space for mobile. Bebber’s Gooey Menu offer
+			something new and unique without sacrificing the best advantages of Google’s design style. It is a modern responsive front-end framework based on Material Design. 
  
-          Figure 2.1 Materialize Css      	
+		          Figure 2.1 Materialize Css      	
 
 2.1.2	Materialize Design Lite (MDL)
                  Today we are releasing our effort to bring this to websites using vanilla CSS, HTML, JavaScript. We’re calling it Material Design Lite. MDL makes it easy to add a material design look and feel to your websites. MDL includes a rich set of components including material design buttons, text-fields.
