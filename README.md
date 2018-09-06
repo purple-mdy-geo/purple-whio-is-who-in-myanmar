@@ -4,11 +4,9 @@
            		              
                         	“Who Is Who In Myanmar”
                      
-                      
-		        		FOR
+                                        FOR
 	
-			
-                        Geo Mandalar Investment and technology(Co.,Ltd)
+			 Geo Mandalar Investment and technology(Co.,Ltd)
                         
                    		     SUBMITTED IN PARTIAL
                   
