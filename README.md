@@ -216,7 +216,7 @@
 		Figure 3.2 Python Exercises run on PyCharm
 		Figure 3.3 Learn Flask run on GitBash
 		Figure 3.4 Example of Personal Page On Heroku
-Figure 3.5 Gmail App Design
+		Figure 3.5 Gmail App Design
 Figure 3.6 Example of Lost Footsteps Design
 Figure 3.7 Example of UI/UX Design for Online Shopping
 Figure 3.8 Example of UI/UX Design for “Who Is Who In Myanmar”
