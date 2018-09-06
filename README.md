@@ -141,8 +141,12 @@
 
 
 
-                                                                                                          i
-                                                                                                          
+                                                                     i
+
+
+
+
+
                                                              Acknowledgements
                                                              
    		Firstly, we would like to express my heartfelt thanks to  U Kyaw Zwar Soe, Rector, ComputerUniversity(Mandalay),
@@ -166,32 +170,48 @@
 
 
 
+                                                                     ii
 
-                                                                                                                       ii
-                                                                                                                       
+
+
+
+
                                                        DECLARATION
                                                        
-   We declare that this project report or part of it was not a copy of a document done by any organization, university any other institute or a previous student project group at University of Computer Studies, Mandalay and was not copied from the Internet or other sources.
+	   We declare that this project report or part of it was not a copy of a document done by any organization,
+	   university any other institute or a previous student project group at University of Computer Studies,
+	   Mandalay and was not copied from the Internet or other sources.
 
-   The interpretations are based on reading and understanding of the original texts and they are not published anywhere in the form of books, monographs or articles. The other books, articles and websites, which I have made use of are acknowledgement at the respective place in the text. For the present thesis, which we are submitting to the University, no degree on me before, either in this or in any other University.
+   	  The interpretations are based on reading and understanding of the original texts and they are not published 
+	  anywhere in the form of books, monographs or articles. The other books, articles and websites, which I have made
+	  use of are acknowledgement at the respective place in the text. For the present thesis, which we are submitting to
+	  the University, no degree on me before, either in this or in any other University.
 
-Project Details
+	Project Details
 
-Project Title	Who Is Who In Myanmar
+	Project Title			Who Is Who In Myanmar
 
-Project ID	GEO Mandalar Investment & TechnologyCompany
-
-
+	Project ID			GEO Mandalar Investment & TechnologyCompany
 
 
 
-                                                                                                                                iii.List of Figures
-                                                                                                                            Figure                                  Page
+
+		                                             iii
+							     
+							     
+							     
+							     
+							     
+							     
+		List of Figures
+
+
+		Figure 						                                 Page
                                                                                                                             
-Figure 1.1  Example of GitHub Account     23                                                                                                         
-Figure 2.2 Materialize Design Lite(MDL)   24                                                                                     
-Figure 2.1 Materialize Css
-Figure 2.3 Example of Heroku App Account
+		Figure 1.1  Example of GitHub Account     23                                                                                                         
+		Figure 2.2 Materialize Design Lite(MDL)   24                                                                                     
+		Figure 2.1 Materialize Css
+		Figure 2.3 Example of Heroku App Account
 Figure 2.4 Project Plan
 Figure 3.2 Python Exercises run on PyCharm
 Figure 3.3 Learn Flask run on GitBash
