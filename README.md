@@ -208,7 +208,23 @@ on open source code. GitHub makes it easy to find useful code, copy repositories
 (ii)Learn GitHub	
 Why learn Git? Ever have a "I lost all my work and I have a                                                  deadline the next day" moment? Git is the most popular version control tool - something that developers use to save all relevant versions of their work to avoid moments like those.
                                                      
-                                                         
+             
+             
+                 Figure1.1 Learn Git
+
+(iii)How To Create GitHub Account?
+•	Play vim adventuregame
+•	Do github tutorial
+•	Build repository
+
+
+
+                        
+                                    
+ 
+             Figure1.2 Example of GitHub Account
+
+
 
 
 
