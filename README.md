@@ -321,6 +321,11 @@ Benefits of the Heroku platform are:
  
         Figure 3.2 Python Exercises run on PyCharm
 
+3.1.3 Flask	
+   Flask is a small and powerful web framework for Python. It's easy to learn and simple to use, enabling you to build your web app in a short amount of time.
+   Before getting started, we need to install Flask. Because systems vary, things can sporadically go wrong during these steps. If they do, like we all do, just Google the error message or leave a comment describing the problem
+  
+        Figure 3.3 Learn Flask run on GitBash
 
 
  
