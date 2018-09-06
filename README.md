@@ -228,12 +228,18 @@
 								  CHAPTER 1
                                                  		
 								INTRODUCTION
-1.1	Introduction
-         Myanmar is one of the most interesting places in South East Asia. The world 'Myanmar' represents all the ethnic groups living in the country. The population of Myanmar is 60 million people The project is “Who Is Who In Myanmar” .Many kinds of partitions in Myanmar.Among them,describe any five partitions in Myanmar.It include 
-               i.Candidates from Parties,
-               ii.Member of Parliament(Union,State,Region),
-               iii.Business Leaders,
-               iv.Modern Historical Figures         (33Comrades,Freedom,Fighters,Regional Leaders,etc….)    and v.Celebrities(BeautyPageants,Models,Actors,Vocalists,Directors,Promoters,Socialites,Social Media Influence,etc...).We used UI/UX update design for our project.We can also used Javascript,Materialize CSS and Materialize Design Lite(MDL).
+		1.1	Introduction
+        		 Myanmar is one of the most interesting places in South East Asia. The world 'Myanmar' represents all the ethnic
+			 groups living in the country. The population of Myanmar is 60 million people The project is “Who Is Who In Myanmar” .
+			 Many kinds of partitions in Myanmar.Among them,describe any five partitions in Myanmar.It include 
+              		
+			i.Candidates from Parties,
+               		ii.Member of Parliament(Union,State,Region),
+               		iii.Business Leaders,
+               		iv.Modern Historical Figures         (33Comrades,Freedom,Fighters,Regional Leaders,etc….)    
+			and v.Celebrities(BeautyPageants,Models,Actors,Vocalists,Directors,Promoters,Socialites,
+			Social Media Influence,etc...).We used UI/UX update design for our project.We can also used Javascript,Materialize CSS
+			and Materialize Design Lite(MDL).
 
 
 1.2	Background of the Project
