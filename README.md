@@ -222,9 +222,12 @@
 		Figure 3.8 Example of UI/UX Design for “Who Is Who In Myanmar”
 
 
-
-                                                  CHAPTER 1
-                                                 INTRODUCTION
+						
+                                                		
+								
+								  CHAPTER 1
+                                                 		
+								INTRODUCTION
 1.1	Introduction
          Myanmar is one of the most interesting places in South East Asia. The world 'Myanmar' represents all the ethnic groups living in the country. The population of Myanmar is 60 million people The project is “Who Is Who In Myanmar” .Many kinds of partitions in Myanmar.Among them,describe any five partitions in Myanmar.It include 
                i.Candidates from Parties,
