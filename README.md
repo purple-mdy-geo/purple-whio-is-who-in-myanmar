@@ -236,9 +236,11 @@ Git is a version control system for tracking changes in computer files and coord
 Bash is a Unix shell and command language written by Brian Fox for the GNU Project as a free software replacement for the Bourne shell. It has been distributed widely as the default login shell for most Linux distributions and Apple’s macOS. A version is also available for Windows 10.
 Bash is command processor that typically runs in a text window where the user types commands that cause actions. Bash can also read and execute commands from a file, called a shell script.
 
-
-
-
+1.4 Objective of the Project
+	To search people informations from these  project.
+	User can  easily   know about  the  people  biography of famous people.                                    
+	To  reduce  the  paper  work.
+	To  develop  the  general  knowledge  for our  country have a variety  of popular  people .
 
 
 
