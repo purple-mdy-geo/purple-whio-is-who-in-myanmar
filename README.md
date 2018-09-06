@@ -326,6 +326,18 @@ Benefits of the Heroku platform are:
    Before getting started, we need to install Flask. Because systems vary, things can sporadically go wrong during these steps. If they do, like we all do, just Google the error message or leave a comment describing the problem
   
         Figure 3.3 Learn Flask run on GitBash
+3.1.4 Personal Page On Heroku
+  
+Figure3.4 Example of Personal Page On Heroku
+
+3.1.4 Gmail App Design
+ 
+(a)	Gmail App Design Example
+ 
+             (b)After Click Menu Item
+     
+               (c)After press enter create icon
+                 Figure 3.5 Gmail App Design
 
 
  
