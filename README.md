@@ -100,28 +100,34 @@
 				2.2.1 PyCharm                                                      10
 				2.2.2 Heroku                                                       10
 			   2.3   Project Plan                                                      10
-CHAPTER 3      Project Designs                                            13
-3.1 Designs
-   3.1.1 Learn Python
-   3.1.2 Python Exercises
-   3.1.3 Flask
-   3.1.4 Personal Page On Heroku
-   3.1.4 Gmail App Design
-   3.1.5 Lost Footsteps Design Example
-   3.1.6 Online Shopping Design
-   3.1.7 Who Is Who In Myanmar
-CHAPTER 4 
-   4.1 Conclusion  
-   4.2 Advantages of the Project  
-   4.3 Disadvantages of the project
-   4.4 Limitation and Future Work
+		     CHAPTER 3      Project Designs                                   		    13
+   			   3.1 Designs
+				3.1.1 Learn Python
+				3.1.2 Python Exercises
+				3.1.3 Flask
+				3.1.4 Personal Page On Heroku
+				3.1.4 Gmail App Design
+				3.1.5 Lost Footsteps Design Example
+				3.1.6 Online Shopping Design
+				3.1.7 Who Is Who In Myanmar
+		   CHAPTER 4 
+			 4.1 Conclusion  
+   				4.2 Advantages of the Project  
+   				4.3 Disadvantages of the project
+	   			4.4 Limitation and Future Work
 
-                                                  Abstract
-     Our project  “Who is Who in Myanmar” is a  one kind of searching  from in Myanmar.This project shows the biography of famous people among in our Country.
 
-    Famous people such as Candidate from parties,Members of parliament,Business leader,Celebrity (They are  Beauty Pageant ,Models,Actor,Vocalist,Directors,Promoter, and so on) and also can know the unique popular people (such as Historical figures,freedom fighter ,Regional leader from  parliament and very important to know about the  famous people.So user can find the about the people who live in Myanmar .  
+                                		            Abstract
 
-    This system describe information that user required who takepart in which part.This system just only show the information  system.
+		Our project  “Who is Who in Myanmar” is a  ne kind of searching  from in Myanmar.This project 
+		shows the biography of famous people among in our Country.
+
+		Famous people such as Candidate from parties,Members of parliament,Business leader,Celebrity
+		(They are  Beauty Pageant ,Models,Actor,Vocalist,Directors,Promoter, and so on) and also can know the
+		unique popular people (such as Historical figures,freedom fighter ,Regional leader from  parliament
+		and very important to know about the  famous people.So user can find the about the people who live in Myanmar .  
+
+    		This system describe information that user required who takepart in which part.This system just only show the information  system.
 
 
 
@@ -139,14 +145,17 @@ CHAPTER 4
                                                                                                           
                                                              Acknowledgements
                                                              
-   Firstly, we would like to express my heartfelt thanks to  U Kyaw Zwar Soe, Rector, ComputerUniversity(Mandalay), For  his permission to do this project.
+   		Firstly, we would like to express my heartfelt thanks to  U Kyaw Zwar Soe, Rector, ComputerUniversity(Mandalay),
+		For  his permission to do this project.
 
-   We should like to express our deep appreciatioin to ours director  U Ravi Chhabra,Director of GEO Mandalar Co.Ltd,for his guidance and suggestion for this project.
+  		 We should like to express our deep appreciatioin to ours director  U Ravi Chhabra,Director of GEO Mandalar Co.Ltd,
+		 for his guidance and suggestion for this project.
 
-   We would like to express our deep appreciation to ours supervisor Dr.Daw Nwe Nwe Hlaing, From Software Department ,Computer University(Mandalay),for her close supervision,helpful advice, encouragement,numerous invaluable suggession and comments.
+ 		 We would like to express our deep appreciation to ours supervisor Dr.Daw Nwe Nwe Hlaing, From Software Department ,
+		 Computer University(Mandalay),for her close supervision,helpful advice, encouragement,numerous invaluable suggession and comments.
 
-  We were also grateful to all my teachers from Computer University (Mandalay) who have taugh and guided us during the period of study.
-  Finally,we also thanks everyone for supporting  in various ways.
+		We were also grateful to all my teachers from Computer University (Mandalay) who have taugh and guided us during the period of study.
+  		Finally,we also thanks everyone for supporting  in various ways.
 
 
 
