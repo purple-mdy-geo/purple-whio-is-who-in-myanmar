@@ -1,31 +1,42 @@
 # purple-whio-is-who-in-myanmar
 
-                      A PROJECT REPORT ON
-                      
-                     “Who Is Who In Myanmar”
+	                         A PROJECT REPORT ON
+           		              
+                        	“Who Is Who In Myanmar”
                      
-                            FOR
+                      
+		        		FOR
+	
+			
                         Geo Mandalar Investment and technology(Co.,Ltd)
                         
-                    SUBMITTED IN PARTIAL
-                   FULFILLMENT OF INTERNSHIP
-                            PROJECT
-                    UNDER THE GUIDANCE OF
-                           Director
-                       U Ravi Chhabra
-                       
-                         Supervisor
-                     Dr.Nwe Nwe Hlaing
+                   		     SUBMITTED IN PARTIAL
+                  
+		  	          FULFILLMENT OF INTERNSHIP
+                             
+			                  PROJECT
+                                
+			           UNDER THE GUIDANCE OF
+                          
+			                  Director
+                                 
+			              U Ravi Chhabra
+                          
+                                         Supervisor
+                              
+			              Dr.Nwe Nwe Hlaing
                      
-                       SUMITTED BY
-                     Ma Yu Yu Lwin
-                     Ma Myat Kaythi Aung
-                     Ma Phyu Thwe Soe
-                     Ma Thaim Mwae Lwin
-                     Ma Mu Di Ta
+                                         SUMITTED BY
+                          
+			                Ma Yu Yu Lwin
+                                        Ma Myat Kaythi Aung
+                                        Ma Phyu Thwe Soe
+                                        Ma Thaim Mwae Lwin
+                                        Ma Mu Di Ta
                      
-             University of Computer Studies(Mandalay)
-                              Date –- September 2018
+                           University of Computer Studies(Mandalay)
+                  
+		                   Date –- September 2018
 
           Group Member
  Roll No  	Name                         Signature/Date
